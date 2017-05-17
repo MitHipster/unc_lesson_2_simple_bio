@@ -1,0 +1,30 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 20px 0;
+}
+
+p {
+  padding: 50px 20px 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 20px;
+}
+
+.contact-info {
+  min-width: 250px;
+}
+
+li {
+  padding-bottom: 5px;
+}
